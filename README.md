@@ -30,11 +30,13 @@ Input : Pre-processed mammograms
 Output: Benign, malignant.
 
 
+# Project files
+
 Dataset: Utilized the standard all-mias dataset containing mammograms and the related metadata.
 
 Classification 1:
 
-File: bcc_cnn_ps1.ipynb
+File: bcc_cnn_ps1.ipynb.
 Purpose: Trained a CNN using raw mammograms for benign, malignant, or no cancer classification.
 Result: Stored the trained model as pickle file in bcc_cnn_ps1.pkl.
 
@@ -42,8 +44,9 @@ Lesion Extraction & Classification 2:
 
 Preprocessing: Performed lesion extraction from mammograms.
 File: preprocessing_dataset.py
+
 Classification: Built a classifier for benign/malignant cases.
-CNN Implementation: bcc_cnn_224_360.ipynb
+File: bcc_cnn_224_360.ipynb.
 Result: Trained model stored as pickle file in bcc_cnn_224_360.pkl.
 
 Refer the report of the project from 'CNN-BCC_REPORT .pdf'
