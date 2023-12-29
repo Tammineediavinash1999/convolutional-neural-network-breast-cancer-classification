@@ -1,4 +1,4 @@
-# CONVOLUTIONAL NEURAL NETWORK FOR BREAST CANCER CLASSIFICATION
+# CONVOLUTIONAL NEURAL NETWORK IMPROVEMENT FOR BREAST CANCER CLASSIFICATION
 
 In the earlier CNN models, the model is only used to classify whether the
 cancer is present or not, but that model didn't know the level of cancer if it
